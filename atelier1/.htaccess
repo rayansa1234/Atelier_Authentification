@@ -1,0 +1,4 @@
+AuthName "Accès protégé"
+AuthType Basic
+AuthUserFile /home/rayan2/www/.htpasswd
+Require valid-user
